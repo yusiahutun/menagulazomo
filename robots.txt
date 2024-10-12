@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://menagulazomo.pages.dev/sitemap.xml
